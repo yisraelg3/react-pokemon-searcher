@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": 90,
+      "sprites": {
+        "front": "https://www.google.com/imgres?imgurl=https%3A%2F%2F3dprintingindustry.com%2Fwp-content%2Fuploads%2F2014%2F08%2F1.png&imgrefurl=https%3A%2F%2F3dprintingindustry.com%2Fnews%2Fpokemon-bulbasaur-look-alike-planter-model-removed-shapeways-copyright-violation-31589%2F&tbnid=zK2JPJQd5C80oM&vet=12ahUKEwitqb6nsebwAhXNHN8KHXYwCDQQMygCegUIARDEAQ..i&docid=Ipqke9dbfTQtjM&w=1000&h=998&q=bulbasaur%20no%20copyright&safe=off&ved=2ahUKEwitqb6nsebwAhXNHN8KHXYwCDQQMygCegUIARDEAQ",
+        "back": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pokemonpets.com%2FBulbasaur-Pokemon-Pokedex-1&psig=AOvVaw38k13Wo5JMk_cJhaVXLHU7&ust=1622085110102000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjr7Iew5vACFQAAAAAdAAAAABAL"
+      },
+      "id": 151
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": 90,
+      "sprites": {
+        "front": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreview.free3d.com%2Fimg%2F2017%2F09%2F2269148877007357803%2Fb7g0b64p-900.jpg&imgrefurl=https%3A%2F%2Ffree3d.com%2F3d-model%2Fpokemon-bulbasaur-3749.html&tbnid=iTTGFQHZKyFk2M&vet=12ahUKEwitqb6nsebwAhXNHN8KHXYwCDQQMygKegUIARDUAQ..i&docid=UdpKGRpUdvV2YM&w=900&h=900&q=bulbasaur%20no%20copyright&safe=off&ved=2ahUKEwitqb6nsebwAhXNHN8KHXYwCDQQMygKegUIARDUAQ",
+        "back": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pokemonpets.com%2FBulbasaur-Pokemon-Pokedex-1&psig=AOvVaw38k13Wo5JMk_cJhaVXLHU7&ust=1622085110102000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjr7Iew5vACFQAAAAAdAAAAABAL"
+      },
+      "id": 152
     }
   ]
 }
